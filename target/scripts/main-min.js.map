@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../src/scripts/main.js"],"names":["year","Date","getFullYear","document","getElementById","innerHTML"],"mappings":"AAeA,GAAIA,OAAO,GAAIC,OAAOC,aACtBC,UAASC,eAAe,gBAAgBC,UAAYL","file":"main-min.js"}
