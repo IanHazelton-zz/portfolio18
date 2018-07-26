@@ -1,13 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:400,400i,700,700i,900,900i|Overpass:100,100i,200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
 
-// font-family: 'Chivo', sans-serif;
-// font-family: 'Overpass', sans-serif;
+$text_xs_title: 3.2rem;
+$text_xs_subtitle: 2.4rem;
+$text_xs_body: 1.8rem;
+$text_xs_caption: 1.2rem;
 
-$fontSizeOne: 6.7772816512rem;
-$fontSizeTwo: 4.1886784rem;
-$fontSizeThree: 2.5888rem;
-$fontSizeFour: 1.6rem;
-
+$text_md_title: 4.2rem;
+$text_md_subtitle: 2.8rem;
+$text_md_body: 2.1rem;
+$text_md_caption: 1.2rem;
 
 html {
     font-size: 62.5%;
@@ -17,12 +18,12 @@ html {
 .title {
     color: $textPrimary;
     font-family: 'Chivo', sans-serif;
-    //font-size: 3.2rem;
-    font-size: $fontSizeTwo;
+    font-size: $text_xs_title;
     font-weight: 700;
-    line-height: 40px;
+    line-height: 35px;
     @include breakpoint(md) {
-        font-size: calc(#{$fontSizeTwo} + 150%);
+        font-size: $text_md_title;
+        line-height: 43px;
     } 
 }
 
@@ -30,56 +31,61 @@ html {
 .subtitle {
     color: $textPrimary;
     font-family: 'Chivo', sans-serif;
-    //font-size: 2.4rem;
-    font-size: $fontSizeThree;
-    line-height: 1.2;
+    font-size: $text_xs_subtitle;
+    line-height: 30px;
     @include breakpoint(md) {
-        font-size: calc(#{$fontSizeThree} + 150%);
+        font-size: $text_md_title;
+        line-height: 43px;
     } 
 }
 
 .sectionTitle {
     color: $lightGrey;
     font-family: 'Overpass', sans-serif;
-    //font-size: 2.2rem;
-    font-size: $fontSizeThree;
+    font-size: $text_xs_subtitle;
     font-weight: 200;
     @include breakpoint(md) {
-        font-size: calc(#{$fontSizeThree} + 150%);
+        font-size: $text_md_subtitle;
+        line-height: 34px;
     } 
 }
 
-p.bodyText {
+.bodyText {
     color: $lightGrey;
     font-family: 'Overpass', sans-serif;
-    font-size: $fontSizeFour;
+    font-size: $text_xs_body;
     font-weight: 200;
     line-height: 2.7rem;
     @include breakpoint(md) {
-        font-size: calc(#{$fontSizeFour} + 40%);
-        line-height: 1.6;
+        font-size: $text_md_body;
+        line-height: 33px;
     } 
 }
 
-a.inline-link {
+.inline-link {
     border-bottom: 1px dotted $lightGrey;
     color: $lightGrey;
     font-family: 'Overpass', sans-serif;
-    font-size: 1.8rem;
+    font-size: $text_xs_body;
     font-weight: 200;
     line-height: 2.7rem;
 }
 
-.header__title {
-    font-size: 16px;
-}
-
 .blockLink {
-    color: $textPrimary;
+    color: $lightGrey;
     font-family: 'Overpass', sans-serif;
-    font-size: 1.6rem;
+    font-size: $text_xs_body;
     font-weight: 200;
-    text-decoration: none;
+    line-height: 2.7rem;
+    // &::before {
+    //     content: '';
+    //     display: block;
+    //     background-color: yellow;
+    //     mix-blend-mode: multiply;
+    //     position: absolute;
+    //     height: 33px;
+    //     width: 200px;
+    // }
     &.header {
         margin-right: 1rem;
     }
@@ -90,6 +96,6 @@ a.inline-link {
     font-family: 'Overpass', sans-serif;
     font-weight: 200;
     line-height: 2.7rem;
-    font-size: 1.2rem;
+    font-size: $text_xs_caption;
     text-align: center;
 }
