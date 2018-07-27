@@ -34,7 +34,7 @@ html {
     font-size: $text_xs_subtitle;
     line-height: 30px;
     @include breakpoint(md) {
-        font-size: $text_md_title;
+        font-size: $text_md_subtitle;
         line-height: 43px;
     } 
 }
