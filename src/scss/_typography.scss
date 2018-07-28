@@ -85,18 +85,6 @@ html {
         font-size: $text_md_body;
         line-height: 33px;
     } 
-    // &::before {
-    //     content: '';
-    //     display: block;
-    //     background-color: yellow;
-    //     mix-blend-mode: multiply;
-    //     position: absolute;
-    //     height: 33px;
-    //     width: 200px;
-    // }
-    &.header {
-        margin-right: 1rem;
-    }
 }
 
 .caption {
@@ -106,4 +94,12 @@ html {
     line-height: 2.7rem;
     font-size: $text_xs_caption;
     text-align: center;
+    .captionLink {
+        border-bottom: 1px dotted $lightGrey;
+    }
+}
+
+.section__footer {
+    display: flex;
+    justify-content: flex-end;
 }
