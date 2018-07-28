@@ -76,6 +76,19 @@ html {
 }
 
 .blockLink {
+    background-color: yellow;
+    color: $lightGrey;
+    font-family: 'Overpass', sans-serif;
+    font-size: $text_xs_body;
+    font-weight: 200;
+    line-height: 2.7rem;
+    @include breakpoint(md) {
+        font-size: $text_md_body;
+        line-height: 33px;
+    } 
+}
+
+.blockLink__nav {
     color: $lightGrey;
     font-family: 'Overpass', sans-serif;
     font-size: $text_xs_body;
