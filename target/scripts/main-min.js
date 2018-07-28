@@ -1,2 +1,5 @@
-var year=(new Date).getFullYear();document.getElementById("js-printYear").innerHTML=year;
-//# sourceMappingURL=./main-min.js.map
+var currentYear = new Date().getFullYear();
+var yearTarget = document.getElementsByClassName("yearTarget");
+[...yearTarget].forEach(function(el){
+  el.innerHTML = currentYear;
+});

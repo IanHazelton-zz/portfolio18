@@ -9,6 +9,20 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/article_spider-people.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/article_spider-people.html",
+		"oF": 0
+		},
+	"\/article_spider-people.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/article_spider-people.html",
+		"oF": 0
+		},
 	"\/favicon.jpg": {
 		"ft": 16384,
 		"iS": 25827,
@@ -23,6 +37,13 @@
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/index.kit": {
+		"cB": 0,
+		"ft": 2048,
 		"oA": 0,
 		"oAP": "\/index.html",
 		"oF": 0
@@ -270,7 +291,7 @@
 		},
 	"\/src\/img\/IMG_0501.jpg": {
 		"ft": 16384,
-		"iS": 68911,
+		"iS": 209312,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/target\/img\/IMG_0501.jpg",
@@ -281,7 +302,7 @@
 		},
 	"\/src\/img\/IMG_0502.jpg": {
 		"ft": 16384,
-		"iS": 347147,
+		"iS": 347473,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/target\/img\/IMG_0502.jpg",
@@ -303,7 +324,7 @@
 		},
 	"\/src\/img\/myFace2.jpg": {
 		"ft": 16384,
-		"iS": 370072,
+		"iS": 367464,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/target\/img\/myFace2.jpg",
@@ -312,36 +333,152 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/src\/img\/scene.jpeg": {
+	"\/src\/img\/spider1.jpeg": {
 		"ft": 16384,
-		"iS": 83203,
+		"iS": 119724,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/src\/img\/scene.jpg",
-		"oF": 1,
+		"oAP": "\/target\/img\/spider1.jpg",
+		"oF": 3,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
-	"\/src\/img\/spider_ice_cream.png": {
-		"ft": 32768,
-		"iS": 1489832,
+	"\/src\/img\/spider2.jpeg": {
+		"ft": 16384,
+		"iS": 5184,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "\/target\/img\/spider_ice_cream.png",
+		"oAP": "\/target\/img\/spider2.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider3.jpeg": {
+		"ft": 16384,
+		"iS": 6400,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider3.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider4.jpeg": {
+		"ft": 16384,
+		"iS": 34284,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider4.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider5.jpeg": {
+		"ft": 16384,
+		"iS": 27741,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider5.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider6.jpeg": {
+		"ft": 16384,
+		"iS": 90506,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider6.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider7.jpeg": {
+		"ft": 16384,
+		"iS": 73358,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider7.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider8.jpeg": {
+		"ft": 16384,
+		"iS": 28702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider8.jpg",
+		"oF": 3,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/img\/spider9.png": {
+		"ft": 32768,
+		"iS": 39458,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider9.png",
 		"oF": 3,
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
+	"\/src\/img\/spider_ice_cream.jpg": {
+		"ft": 16384,
+		"iS": 242483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider_ice_cream.jpg",
+		"oF": 2,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/src\/kit\/_head.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/src\/kit\/_head.html",
+		"oF": 0
+		},
+	"\/src\/kit\/_nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/src\/kit\/_nav.html",
+		"oF": 0
+		},
+	"\/src\/kit\/_nav.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/src\/kit\/_nav.html",
+		"oF": 1
+		},
+	"\/src\/kit\/head.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/src\/kit\/head.html",
+		"oF": 0
+		},
 	"\/src\/scripts\/main.js": {
 		"ft": 64,
 		"ma": 1,
 		"mi": 1,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/target\/scripts\/main-min.js",
-		"oF": 2,
-		"sC": 1,
+		"oF": 3,
+		"sC": 0,
 		"tS": 0
 		},
 	"\/src\/scripts\/nouns.json": {
@@ -553,6 +690,163 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/target\/img\/favicon\/apple-touch-icon-114x114.png": {
+		"ft": 32768,
+		"iS": 5175,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-114x114.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 4977,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-120x120.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 7407,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-144x144.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 8021,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-152x152.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-57x57.png": {
+		"ft": 32768,
+		"iS": 1858,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-57x57.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-60x60.png": {
+		"ft": 32768,
+		"iS": 1840,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-60x60.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-72x72.png": {
+		"ft": 32768,
+		"iS": 2518,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-72x72.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/apple-touch-icon-76x76.png": {
+		"ft": 32768,
+		"iS": 2823,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/apple-touch-icon-76x76.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/code.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/code.txt",
+		"oF": 0
+		},
+	"\/target\/img\/favicon\/favicon-128.png": {
+		"ft": 32768,
+		"iS": 5389,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon-128.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/favicon-16x16.png": {
+		"ft": 32768,
+		"iS": 415,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon-16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/favicon-196x196.png": {
+		"ft": 32768,
+		"iS": 12138,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon-196x196.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/favicon-32x32.png": {
+		"ft": 32768,
+		"iS": 865,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon-32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/favicon-96x96.png": {
+		"ft": 32768,
+		"iS": 3742,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon-96x96.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/target\/img\/favicon\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/target\/img\/favicon\/favicon.ico",
+		"oF": 0
+		},
 	"\/target\/img\/IanIllustration.png": {
 		"ft": 32768,
 		"iS": 35044,
@@ -597,6 +891,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/target\/img\/spider_ice_cream.jpg": {
+		"ft": 16384,
+		"iS": 242262,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/target\/img\/spider_ice_cream.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/target\/img\/spider_ice_cream.png": {
 		"ft": 32768,
 		"iS": 510101,
@@ -635,6 +940,15 @@
 		}
 	},
 "hooks": [
+	{
+		"enabled": 1,
+		"name": "Hook #1",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGYmNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMTU6Oz5CRktMT1VZXV9VJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy0vMFxOU0V4cHJlc3Npb25YTlNPYmplY3TSEAsyNKEzgAmADNMLHzY3ODlZTlNLZXlQYXRogAsQCoAKXWlucHV0RnVsbFBhdGjSKyw8PV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb26jPC8w0issP0BeTlNNdXRhYmxlQXJyYXmjP0EwV05TQXJyYXnSKyxDRF8QE05TS2V5UGF0aEV4cHJlc3Npb26kQ0UvMF8QFE5TRnVuY3Rpb25FeHByZXNzaW9u00cfC0hJSl8QD05TQ29uc3RhbnRWYWx1ZYAPEACAEFtwb3J0Zm9saW8xONIrLE1OXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvbqNNLzDUC1BRUlNJKFRaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLFZXXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo1ZYMF8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxaW18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNaXDBbTlNQcmVkaWNhdGXSKyxBXqJBMNIrLGBhXxATTlNDb21wb3VuZFByZWRpY2F0ZaNgXDBfEA9OU0tleWVkQXJjaGl2ZXLRZGVUcm9vdIABAAgAEQAaACMALQAyADcAUABWAF0AdwCJAJAAkgCUAJYAmwCmAKgAqgCsALUAyQDcAPIA9AD2APgA+gEFAQ8BHgExAT0BPwFBAUMBRQFHAVQBWQFbAV0BYgFtAXYBiQGNAZoBowGoAaoBrAGuAbUBvwHBAcMBxQHTAdgB9wH7AgACDwITAhsCIAI2AjsCUgJZAmsCbQJvAnECfQKCAp4CogKrArYCvgLNAs8C0QLWAu4C8gMIAw0DJQMpAzUDOgM9A0IDWANcA24DcQN2AAAAAAAAAgEAAAAAAAAAZgAAAAAAAAAAAAAAAAAAA3g=",
+		"runOrder": 0,
+		"scriptSourceString": "",
+		"scriptType": 1,
+		"uuidString": "9A56A52C-8296-4927-AC3C-21A5562C88DA"
+		}
 	],
 "manualImportLinks": {
 	},
