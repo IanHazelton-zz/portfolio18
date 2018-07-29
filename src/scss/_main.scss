@@ -31,16 +31,25 @@ a {
   padding: 2rem 0;
 }
 
+.header__inner {
+  //background-color: red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 700px;
+  margin: 0 auto;
+  width: 100%;
+}
+
 .headroom {
   background-color: #fff;
-  //will-change: transform;
-  transition: transform 400ms linear;     
+  transition: transform 300ms linear;     
   position: fixed;
-  width: 85%;
   left: 0;
   right: 0;
   padding: 2rem;
   z-index: 9999999999;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.07);
   &--unpinned {
     transform: translateY(-150%);
   }
