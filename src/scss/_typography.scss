@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Chivo:400,400i,700,700i,900|Overpass:100,100i,200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
 
 $text_xs_title: 3.2rem;
-$text_xs_subtitle: 2.4rem;
+$text_xs_subtitle: 1.6rem; //
 $text_xs_body: 1.8rem;
 $text_xs_caption: 1.2rem;
 
 $text_md_title: 4.2rem;
-$text_md_subtitle: 2.8rem;
+$text_md_subtitle: 2rem; //
 $text_md_body: 2.1rem;
 $text_md_caption: 1.2rem;
 
@@ -31,23 +31,23 @@ html {
 .subtitle {
     color: $textPrimary;
     font-family: 'Chivo', sans-serif;
-    font-size: $text_xs_subtitle;
+    font-size: 2.4rem;
     line-height: 30px;
     @include breakpoint(md) {
-        font-size: $text_md_subtitle;
+        font-size: 2.8rem;
         line-height: 43px;
     } 
 }
 
+
+
 .sectionTitle {
     color: $lightGrey;
     font-family: 'Overpass', sans-serif;
-    font-size: $text_xs_subtitle;
     font-weight: 200;
-    @include breakpoint(md) {
-        font-size: $text_md_subtitle;
-        line-height: 34px;
-    } 
+    line-height: 2.7rem;
+    font-size: 1.6rem;
+    padding: 1rem 0 .15rem;
 }
 
 .bodyText {
@@ -83,23 +83,44 @@ html {
     font-weight: 200;
     line-height: 2.7rem;
     padding: 10px;
+    &__nav {
+        background-color: transparent;
+        color: $lightGrey;
+        padding: 0;
+    }
+    &__pagination {
+        color: red;
+        margin: 10rem 0;
+    }
     @include breakpoint(md) {
         font-size: $text_md_body;
         line-height: 33px;
     } 
 }
 
-.blockLink__nav {
-    color: $lightGrey;
-    font-family: 'Overpass', sans-serif;
-    font-size: $text_xs_body;
-    font-weight: 200;
-    line-height: 2.7rem;
-    @include breakpoint(md) {
-        font-size: $text_md_body;
-        line-height: 33px;
-    } 
-}
+.pagination {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+  } 
+
+  .pagination-block {
+      margin-bottom: 4rem; 
+  }
+// .blockLink__nav {
+//     color: $lightGrey;
+//     font-family: 'Overpass', sans-serif;
+//     font-size: $text_xs_body;
+//     font-weight: 200;
+//     line-height: 2.7rem;
+//     @include breakpoint(md) {
+//         font-size: $text_md_body;
+//         line-height: 33px;
+//     } 
+// }
 
 .caption {
     color: $lightGrey;
