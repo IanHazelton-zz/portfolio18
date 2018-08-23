@@ -7,7 +7,7 @@ $text_xs_caption: 1.2rem;
 
 $text_md_title: 4.2rem;
 $text_md_subtitle: 2rem; //
-$text_md_body: 2.1rem;
+$text_md_body: 1.8rem;
 $text_md_caption: 1.2rem;
 
 html {
@@ -33,9 +33,11 @@ html {
     font-family: 'Chivo', sans-serif;
     font-size: 2.4rem;
     line-height: 30px;
+    padding-bottom: 2rem;
     @include breakpoint(md) {
         font-size: 2.8rem;
         line-height: 43px;
+        padding-bottom: 0;
     } 
 }
 
@@ -110,17 +112,6 @@ html {
   .pagination-block {
       margin-bottom: 4rem; 
   }
-// .blockLink__nav {
-//     color: $lightGrey;
-//     font-family: 'Overpass', sans-serif;
-//     font-size: $text_xs_body;
-//     font-weight: 200;
-//     line-height: 2.7rem;
-//     @include breakpoint(md) {
-//         font-size: $text_md_body;
-//         line-height: 33px;
-//     } 
-// }
 
 .caption {
     color: $lightGrey;
