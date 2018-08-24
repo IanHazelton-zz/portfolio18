@@ -1,17 +1,21 @@
-<!-- @include /src/kit/head.kit -->
-<body>
-  <div class="wrap_main">
-  <!-- @include /src/kit/nav.kit -->
-    <main class="main" role="main">
-      <div class="main__inner">
-        <div class="intro">
-          <div class="intro__header"></div>
-            <h1 class="title">About</h1>
-            <p class="bodyText mb2">Ian Hazelton</p>
-          </div>
-        </div>
-        <section class="section">
-          <div class="section__content pb2">
+include ./head/_head.slim
+body
+
+  .wrap_main
+
+    include ./nav/_nav.slim
+
+    main.main role="main"
+
+      .main__inner
+
+        .intro
+
+          .intro__header
+            h1.title
+              | Ian Hazelton
+            p.bodyText.mb2
+              | Product designer
 
 <img class="card__img pt2" src="./target/img/IMG_0690.jpg" alt="photo of Ian Hazelton">
 <p class="caption pb1"></p>
@@ -28,19 +32,5 @@
   <p class="bodyText mb1">I'm a hands-on learner.</p>
   <p class="bodyText mb1">My spirit animal is a kangaroo... <br /> and I love getting <a href="mailto:ian@commonground.se" class="inline-link">emails</a> from awesome people</p>
 
-  <!--img class="card__img" src="./target/img/spider_ice_cream.jpg" alt="">
-  <p class="caption pb1">Adult Swim &copy; <span class="yearTarget"></span> Rick & Morty</p-->
 
-            
-          </div>
-        </section>
-      </div>
-    </main>
-    <footer class="footer" role="contentinfo">
-          <p class="caption">Copyright &copy; <span class="yearTarget"></span> Ian Hazelton. All rights reserved.</p>
-    </footer>
-  </div>
   <link rel="stylesheet" href="target/css/start.css">
-  <script type="text/javascript" src="target/scripts/main-min.js"></script>
-</body>
-</html>

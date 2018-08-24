@@ -1,0 +1,24 @@
+include ./head/_head.slim
+body
+
+  .wrap_main
+
+    include ./nav/_nav.slim
+
+    main.main role="main"
+
+      .main__inner
+
+        .intro
+
+          .intro__header
+            h1.title
+              | Ian Hazelton
+            p.bodyText.mb2
+              | Product designer
+
+        include ./home/_card_home_ARsneakers.slim
+
+        include ./home/_card_home_spiderPeople.slim
+
+  <link rel="stylesheet" href="target/css/start.css">
