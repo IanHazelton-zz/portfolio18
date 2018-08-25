@@ -12,6 +12,10 @@ a {
   text-decoration: none;
 }
 
+ul {
+  margin: 0 4rem;
+}
+
 .main {
   padding-top: 100px;
 }
@@ -138,7 +142,6 @@ a {
 .arrow {
   padding-left: 1rem;
   line-height: 1.2;
-  width: 15px;
   bottom: -4px;
   position: relative;
 }

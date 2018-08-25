@@ -13,24 +13,38 @@ body
 
           .intro__header
             h1.title
-              | Ian Hazelton
+              | About
             p.bodyText.mb2
-              | Product designer
+              | Ian Hazelton
+              
+        img.card__img.pt2.pb2 src="./target/img/IMG_0690.jpg" alt="photo of Ian Hazelton" /
+        p.bodyText.pb2
+          | A UX product designer, residing in beautiful Stockholm, Sweden. I'm happily employed at <a href="https://commonground.se/" target="_blank" class="inline-link">Common Ground Design Studio</a> and I consult where I'm needed.<br />I've previously worked as a front-end designer, so I know my way around front end styling and animation. <br/> I could mention all the things you've read a thousand times before. Like how I create meaningful experiences and how user-centric I am in my approach. How I can create pixel perfection as well as doing user-research. That's all true. It's true most UX designers.<br/ > But you're not here for skills charts and generic taglines. You're here, presumably, to learn about me, as an indiviual. So let's get personal. 
 
-<img class="card__img pt2" src="./target/img/IMG_0690.jpg" alt="photo of Ian Hazelton">
-<p class="caption pb1"></p>
+        ul.pb2
+          li.bodyText
+            | I'm on my 7th, and hopefully final country of residence.
+          li.bodyText
+            | I'm a very proud Dad, but I try not to show photos to people unless they ask.
+          li.bodyText
+            | I have an irrational hatred of pennies and glitter.
+          li.bodyText
+            | I have a fairly dry, sarcastic sense of humour. Sometimes even I can't tell if I'm joking or not.
+          li.bodyText
+            | My first job was arranging flowers on an assembly line.
+          li.bodyText
+            | I  believe my strongest qualities are empathy and compassion.
+          li.bodyText
+            | I learn best by doing.
+          li.bodyText
+            | My spirit animal is a kangaroo but I can't explain why
 
-<p class="bodyText mb1">A UX product designer, residing in beautiful Stockholm, Sweden. I'm happily employed at <a href="https://http://commonground.se/" target="_blank" class="inline-link">Common Ground AB</a> and I consult where I'm needed.<br />I've previously worked as a front-end designer, so I know my way around front end styling and animation. <br/> I could mention all the things you've read a thousand times before. Like how I create meaningful experiences and how user-centric I am in my approach. How I can create pixel perfection as well as doing user-research. That's all true. It's true most UX designers.<br/ >
-  But you're not here for skills charts and generic taglines. You're here, presumably, to learn about me, as an indiviual. So let's get personal.</p>
+        p.bodyText.mb2
+          |  ...and I love getting <a href="mailto:ian@commonground.se" class="inline-link">emails</a> from cool people.
 
-  <p class="bodyText mb1">I'm on my 7th, and hopefully final country of residence.</p>
-  <p class="bodyText mb1">I'm a proud Dad, but I try not to show photos to people unless they ask.</p>
-  <p class="bodyText mb1">I have an irrational hatred of pennies and glitter.</p>
-  <p class="bodyText mb1">I have a fairly dry, sarcastic sense of humour. Sometimes even I can't tell if I'm joking or not.</p>
-  <p class="bodyText mb1">My first job was arranging flowers on an assembly line.</p>
-  <p class="bodyText mb1">I  believe my strongest qualities are empathy and compassion.</p>
-  <p class="bodyText mb1">I'm a hands-on learner.</p>
-  <p class="bodyText mb1">My spirit animal is a kangaroo... <br /> and I love getting <a href="mailto:ian@commonground.se" class="inline-link">emails</a> from awesome people</p>
+      include ./footer/_footer.slim
 
 
-  <link rel="stylesheet" href="target/css/start.css">
+
+  include ./scripts/_script.slim
+  link href='target/css/start.css' rel='stylesheet' type='text/css'

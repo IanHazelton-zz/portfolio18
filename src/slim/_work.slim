@@ -1,0 +1,26 @@
+include ./head/_head.slim
+body
+
+  .wrap_main
+
+    include ./nav/_nav.slim
+
+    main.main role="main"
+
+      .main__inner
+
+        .intro
+
+          .intro__header
+            h1.title
+              | Selected work
+
+        hr.mt2.mb1
+        include ./work/_card_work_tele2.slim
+        hr.mt2.mb1
+        include ./work/_card_work_ar-sneakers.slim
+      
+        include ./footer/_footer.slim
+
+  include ./scripts/_script.slim
+  link href='target/css/start.css' rel='stylesheet' type='text/css'
