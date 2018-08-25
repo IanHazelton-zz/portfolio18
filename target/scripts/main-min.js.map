@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/scripts/main.js"],"names":["currentYear","Date","getFullYear","yearTarget","document","getElementsByClassName","forEach","el","innerHTML"],"mappings":"AA2BA,GAAIA,cAAc,GAAIC,OAAOC,cACzBC,WAAaC,SAASC,uBAAuB,eAChDF,YAAYG,QAAQ,SAASC,GAC5BA,EAAGC,UAAYR","file":"main-min.js"}
