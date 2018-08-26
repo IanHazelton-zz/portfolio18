@@ -1,0 +1,29 @@
+include ../head/_head.slim
+body
+
+  .wrap_main
+
+    include ../nav/_nav.slim
+
+    main.main role="main"
+
+      .main__inner
+
+        .intro
+
+          .intro__header
+            h1.title.mb2
+              | Bursting your bubbles
+
+          section.section
+            .section__content.pb2
+
+              p.bodyText.mb2
+                | The incident at the experimental laboratory is still under investigation. It’s cause still unknown. Reports of strange lights in the sky have been explained away as a mass hysteria event, most likely caused by the radioactive leak. What we do know, is that this was the event that started it all. Specimens escaped. The radioactive material went airborne. It is in this contamination zone around the blast site where humans and spiders began to rapidly mutate. Their DNA had been spliced together.
+              img.card__img.pt2.pb2 src="./target/img/article/spider-people/spider1.jpg" alt="" /
+              p.caption.pb1
+                | Original image sourced from sketchite.com
+
+        include ../footer/_footer.slim
+
+  include ../scripts/_script.slim
