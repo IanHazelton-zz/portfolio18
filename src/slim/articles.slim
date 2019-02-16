@@ -14,13 +14,19 @@ body
           .intro__header
             h1.title
               | Selected writing
+
+        h4.sectionTitle
+          | Article
+        hr.mb1
+        include ./articles/_article_card_bubbles.slim
+        footer.section__footer
         
-        hr.mt2.mb1
-        include ./articles/_card_article_bubbles.slim
-        hr.mt2.mb1
-        include ./articles/_card_article_spiderPeople.slim
-        hr.mt2.mb1
-        include ./articles/_card_article_spiderPeople.slim
+        h4.sectionTitle
+          | Playground project
+        hr.mb1
+        include ./articles/_article_card_spiderPeople.slim
+        / hr.mt2.mb1
+        / include ./articles/_card_article_spiderPeople.slim
 
         include ./footer/_footer.slim
 

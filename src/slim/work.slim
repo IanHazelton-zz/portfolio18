@@ -15,10 +15,27 @@ body
             h1.title
               | Selected work
 
-        hr.mt2.mb1
-        include ./work/_card_work_tele2.slim
-        hr.mt2.mb1
-        include ./work/_card_work_ar-sneakers.slim
+        h4.sectionTitle
+          | Playground project
+        hr.mb1
+        include ./work/_work_card_bigScreen_prototyping.slim
+
+        h4.sectionTitle
+          | Client work
+        hr.mb1
+        include ./work/_work_card_tele2.slim
+
+        h4.sectionTitle
+          | Side project
+        hr.mb1
+        include ./work/_work_card_glitch.slim
+        footer.section__footer
+
+        h4.sectionTitle
+          | Client work
+        hr.mb1
+        include ./work/_work_card_comeon.slim
+        footer.section__footer
       
         include ./footer/_footer.slim
 
