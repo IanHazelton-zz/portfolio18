@@ -1,0 +1,103 @@
+include ../head/_head.slim
+body
+
+  .wrap_main
+
+    include ../nav/_nav.slim
+
+    main.main role="main"
+
+      .main__inner
+
+        .intro
+
+          .intro__header
+            h1.title
+              | Tele2
+            p.bodyText.mb2
+              | UX & UI Design consultant
+
+          section.section
+            .section__content.pb2
+
+              p.bodyText.pb1
+                | I was brought in to Tele2 as they were starting some major changes:
+              ul.bodyText
+                li A commitment to being a digital-first organisation. 
+                li Scrapping their waterfall projects in favour of Agile
+                li Deploying cross-functional, autonomous teams
+              p.bodyText.mb2  
+                | My role was to represent UX for Tele2 during the pilot program of these changes. 
+             
+              h4.sectionTitle
+                | Initiated Usability Testing Program
+              hr.mb1
+              p.bodyText.mb1  
+                | Tele2 utilised two methods of user-testing. The “Consumer panel” which was a simple questionnaire for quantitive data, and the services of Augur for larger, well-financed ventures where qualitative data was required.</br>
+                | There was nothing in between which suited the new Agile way of working. </br>
+              p.bodyText 
+                | My initiative was to pilot a process for cost-effective, short-notice usability testing in the Tele2 head office.<br> 
+                
+              img.card__img.pt2 src="./img/work/tele2/tele2.1.jpg" alt="Picture of a woman completing a test and a man taking notes." /
+              p.caption.pb1
+              p.bodyText.mb1  
+                |  My contribution was:
+              ul.bodyText
+                li Created a framework for writing hypothesis, interviews, results, insights and recommendations  
+                li Attained buy-in from team leads and product owners
+                li Created an end to end prototype using Sketch & Invision
+                li Clearly defined and documented the purpose, method and research objectives for each aspect of the test scenario
+                li Summarised reactions, insights and recommendations in a report for company-wide distribution
+                li Worked with the product owner to create new user-stories following recommendations
+
+              img.card__img src="./img/work/tele2/tele2.2.jpg" alt="A screenshot from an eye-tracking test recording." /
+              p.bodyText.mb2  
+                | The tests yielded many insights which could be acted upon immediately, or put into the backlog for future development.<br> 
+                | It increased understanding within the company that testing is a team sport and it should be done as often and as early as possible in the product development process to minimise risk. These tests continue to be scheduled on a regular basis.<br>
+                | Special thanks to Tem Aguerre.
+
+              h4.sectionTitle.mt2
+                | "Value added services"
+              hr.mb1
+
+              p.bodyText  
+                | Customers of Tele2 are invited to sign-up for ‘value added services’ in stores, and online. They are incentivised with an extended trial, a discounted monthly subscription, or simply the convenience of combining several bills into one.<br>
+                | Customers signing up for these services were less likely to churn, therefore becoming more profitable over time.<br> 
+              
+              img.card__img src="./img/work/tele2/tele2.3.jpg" alt="Before screens of the VAS flow." /
+              p.caption.pb1
+                | Old flows
+              p.bodyText.mb1 
+                | The scope of the work to be undertaken was:
+              ul.bodyText.mb2 
+                li Redesign for responsive/mobile-first
+                li Reduce load/render time
+                li Improve page accessibility score
+                li Improve conversion, reduce bounce rate
+                li Resolve design inconsistencies & align with a new corporate identity
+              
+              img.card__img.pb2 src="./img/work/tele2/tele2.4.jpg" alt="Images from the design and iteration process" /
+              p.caption.pb1
+                | Material Design components serve as a starting point for Tele2's UI kit  
+              p.bodyText.mb1 
+                | My contribution was:<br>
+              ul.bodyText.mb1 
+                li Researched user-behaviour
+                li Designed a reusable card component that can display services in many states
+                li Worked with developers to create an ARIA compliant, lightweight, reusable page template
+                li Repurposed hero section as a promotional area
+                li Agreed a list of guidelines & constraints with content managers
+
+              img.card__img.pb2 src="./img/work/tele2/tele2.5.jpg" alt="After images of the VAS flow." /
+              p.bodyText.mb1 
+                | The result is an attractive page with greatly-improved performance & accessibility scores.<br> 
+                | Items on the page can be added, removed, edited and deployed through the CMS. No releases necessary. It will easily scale-up to facilitate growth and expansion of services in the future.<br>
+                | Released 12th February 2019. Early indications show -20% bounce rate. <a href="https://www.tele2.se/handla/tjanster-tillval" target="_blank" class="inline-link">See page.</a><br>
+
+              .btn-cnt.mt2
+                .btn    
+                  | <a href="./work_viasport.html">Next case study: Viaplay</a>
+
+        include ../footer/_footer.slim
+
+  include ../scripts/_script.slim

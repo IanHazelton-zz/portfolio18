@@ -1,0 +1,76 @@
+(function(){
+    var as_src = getParam("as_src", window.location.href);
+    var utm_src = getParam("utm_source", window.location.href);
+    var as_coid = getParam("as_coid", window.location.href) ||
+        getParam("coid", window.location.href) ||
+        getCookieValue("coid");
+    var src = as_src;
+    if (!src) src = utm_src;
+    var referrer = encodeURIComponent(document.referrer);
+    var url = encodeURIComponent(document.location.href);
+    var alt = 0;
+    var ab = 0;
+    var days = Number('90');
+    var domain = 'tele2.se';
+
+    if (!src) {
+        as_src = getParam("as_src", document.referrer);
+        utm_src = getParam("utm_source", document.referrer);
+        src = as_src;
+        if (!src) src = utm_src;
+    }
+
+    if (!(Number(as_coid) > 0) || as_coid >= 2147483647) {
+        as_coid = '1665569313';
+        alt = 1;
+    }
+
+    if (as_coid) setCookie("coid", as_coid, days, domain);
+
+    var img = document.createElement("img");
+    img.src = "//online.adservicemedia.dk/cgi-bin/Services/RoutedLastClick/p?sid=3&cid=7663" +
+        "&r=" + referrer +
+        "&url=" + url +
+        "&src=" + src +
+        "&coid=" + as_coid +
+        "&alt=" + alt;
+    img.style.cssText = "display:none;";
+    img.width = "1px";
+    img.height = "1px";
+    document.getElementsByTagName("html")[0].appendChild(img);
+
+    function getParam(name, url) {
+        name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+        var regexS = "[\\?&]"+name+"=([^&#]*)";
+        var regex = new RegExp( regexS );
+        var results = regex.exec(url);
+
+        if (results == null)
+            return "";
+        else
+            return results[1];
+    }
+
+    function setCookie(name, value, days, domain) {
+        var expires = "";
+        var cookieDomain = "";
+
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        } 
+
+        if (domain && location.hostname.indexOf(domain) !== -1) {
+            cookieDomain = "; domain=." + domain;
+        }
+
+        document.cookie = name + "=" + value + expires + cookieDomain + "; path=/";
+    }
+
+    /* Source: https://stackoverflow.com/a/25490531 */
+    function getCookieValue(a) {
+        var b = document.cookie.match('(^|;)\\s*' + a + '\\s*=\\s*([^;]+)');
+        return b ? b.pop() : '';
+    }
+})();

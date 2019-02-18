@@ -78,21 +78,14 @@ html {
 }
 
 .blockLink {
-    background-color: yellow;
-    color: $textPrimary;
     font-family: 'Overpass', sans-serif;
     font-size: $text_xs_body;
     font-weight: 200;
     line-height: 2.7rem;
-    padding: 10px;
     &__nav {
         background-color: transparent;
         color: $lightGrey;
         padding: 0;
-    }
-    &__pagination {
-        color: red;
-        margin: 10rem 0;
     }
     @include breakpoint(md) {
         font-size: $text_md_body;
@@ -100,18 +93,20 @@ html {
     } 
 }
 
-.pagination {
+.btn-cnt {
     display: flex;
-    justify-content: center;
-    height: 100%;
-    position: relative;
-    flex-direction: column;
-    align-items: center;
-  } 
+    justify-content: flex-end;
+    width: 100%;
+}
+.btn {
+    background-color: #fbff00;
+    font-family: 'Overpass', sans-serif;
+    font-size: $text_xs_body;
+    font-weight: 200;
+    line-height: 2.7rem;
+    padding: 1rem;
+}
 
-  .pagination-block {
-      margin-bottom: 4rem; 
-  }
 
 .caption {
     color: $lightGrey;

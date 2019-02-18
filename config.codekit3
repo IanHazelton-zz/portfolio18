@@ -22,6 +22,124 @@
 		"oAP": "/build/build.zip",
 		"oF": 0
 		},
+	"/src/img/article/AR-sneakers/ar1.png": {
+		"ft": 32768,
+		"iS": 208838,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar2.jpeg": {
+		"ft": 16384,
+		"iS": 132550,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar3.jpeg": {
+		"ft": 16384,
+		"iS": 38620,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar4.gif": {
+		"ft": 4194304,
+		"iS": 2665625,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar4.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"/src/img/article/AR-sneakers/ar5.png": {
+		"ft": 32768,
+		"iS": 1295245,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar5.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar6.png": {
+		"ft": 32768,
+		"iS": 464441,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar6.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar7.png": {
+		"ft": 32768,
+		"iS": 815031,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar7.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar8.png": {
+		"ft": 32768,
+		"iS": 1090102,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar8.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/ar9.jpeg": {
+		"ft": 16384,
+		"iS": 91925,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/ar9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/IMG_0501.jpg": {
+		"ft": 16384,
+		"iS": 209312,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/IMG_0501.jpg",
+		"oF": 2,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/article/AR-sneakers/IMG_0502.jpg": {
+		"ft": 16384,
+		"iS": 84196,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/AR-sneakers/IMG_0502.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/src/img/article/bubbles/bubbles1.jpg": {
 		"ft": 16384,
 		"iS": 3611650,
@@ -152,6 +270,17 @@
 		"oIPL": 0,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"/src/img/article/spider-people/spider_ice_cream.jpg": {
+		"ft": 16384,
+		"iS": 65766,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/article/spider-people/spider_ice_cream.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/src/img/favicon/apple-touch-icon-114x114.png": {
@@ -387,39 +516,6 @@
 		"plM": 3758088159,
 		"prP": 1
 		},
-	"/src/img/IMG_0501.jpg": {
-		"ft": 16384,
-		"iS": 209312,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/IMG_0501.jpg",
-		"oF": 3,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/IMG_0502.jpg": {
-		"ft": 16384,
-		"iS": 84196,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/IMG_0502.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/IMG_0502.png": {
-		"ft": 32768,
-		"iS": 84663,
-		"oA": 0,
-		"oAP": "/build/img/IMG_0502.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
 	"/src/img/IMG_0690.jpg": {
 		"ft": 16384,
 		"iS": 2175034,
@@ -427,146 +523,6 @@
 		"oA": 0,
 		"oAP": "/build/img/IMG_0690.jpg",
 		"oF": 2,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/myFace.jpg": {
-		"ft": 16384,
-		"iS": 3230931,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/myFace.jpg",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/myFace2.jpg": {
-		"ft": 16384,
-		"iS": 367464,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/myFace2.jpg",
-		"oF": 1,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/spider_ice_cream.jpg": {
-		"ft": 16384,
-		"iS": 65766,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/spider_ice_cream.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/tele2.png": {
-		"ft": 32768,
-		"iS": 2944067,
-		"oA": 0,
-		"oAP": "/build/img/tele2.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar1.png": {
-		"ft": 32768,
-		"iS": 208838,
-		"oA": 0,
-		"oAP": "/build/img/work/ar1.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar2.jpeg": {
-		"ft": 16384,
-		"iS": 132550,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/work/ar2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/work/ar3.jpeg": {
-		"ft": 16384,
-		"iS": 38620,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/work/ar3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/src/img/work/ar4.gif": {
-		"ft": 4194304,
-		"iS": 2665625,
-		"oA": 0,
-		"oAP": "/build/img/work/ar4.gif",
-		"oF": 0,
-		"opt": 1
-		},
-	"/src/img/work/ar5.png": {
-		"ft": 32768,
-		"iS": 1295245,
-		"oA": 0,
-		"oAP": "/build/img/work/ar5.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar6.png": {
-		"ft": 32768,
-		"iS": 464441,
-		"oA": 0,
-		"oAP": "/build/img/work/ar6.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar7.png": {
-		"ft": 32768,
-		"iS": 815031,
-		"oA": 0,
-		"oAP": "/build/img/work/ar7.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar8.png": {
-		"ft": 32768,
-		"iS": 1090102,
-		"oA": 0,
-		"oAP": "/build/img/work/ar8.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/src/img/work/ar9.jpeg": {
-		"ft": 16384,
-		"iS": 91925,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/img/work/ar9.jpg",
-		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
 		"q": 100
@@ -593,12 +549,155 @@
 		"opt": 1,
 		"q": 100
 		},
+	"/src/img/work/comeon/comeon.1.jpg": {
+		"ft": 16384,
+		"iS": 35628,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/comeon/comeon.1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/comeon/comeon.2.jpg": {
+		"ft": 16384,
+		"iS": 62701,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/comeon/comeon.2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/comeon/comeon.3.jpg": {
+		"ft": 16384,
+		"iS": 103577,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/comeon/comeon.3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/src/img/work/glitch.jpg": {
 		"ft": 16384,
 		"iS": 21255,
 		"jF": 2,
 		"oA": 0,
 		"oAP": "/build/img/work/glitch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2.jpg": {
+		"ft": 16384,
+		"iS": 223577,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2/tele2.1.jpg": {
+		"ft": 16384,
+		"iS": 114177,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2/tele2.1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2/tele2.2.jpg": {
+		"ft": 16384,
+		"iS": 47542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2/tele2.2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2/tele2.3.jpg": {
+		"ft": 16384,
+		"iS": 72515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2/tele2.3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2/tele2.4.jpg": {
+		"ft": 16384,
+		"iS": 56369,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2/tele2.4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/tele2/tele2.5.jpg": {
+		"ft": 16384,
+		"iS": 66947,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/tele2/tele2.5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/viaplay.jpg": {
+		"ft": 16384,
+		"iS": 213625,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/viaplay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/viasports/vsports.1.jpg": {
+		"ft": 16384,
+		"iS": 30227,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/viasports/vsports.1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/viasports/vsports.2.jpg": {
+		"ft": 16384,
+		"iS": 53532,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/viasports/vsports.2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/src/img/work/viasports/vsports.3.jpg": {
+		"ft": 16384,
+		"iS": 67685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/img/work/viasports/vsports.3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -935,26 +1034,38 @@
 		"oS": 1,
 		"rAC": 0
 		},
-	"/src/slim/work/work_ar-sneakers.slim": {
+	"/src/slim/work/_work_card_viasport.slim": {
+		"cB": 0,
+		"cmO": 0,
+		"ft": 1024,
+		"llg": 0,
+		"oA": 1,
+		"oAP": "/build/slim/work/_work_card_viasport.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 1,
+		"rAC": 0
+		},
+	"/src/slim/work/work_comeon.slim": {
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
 		"llg": 0,
 		"oA": 0,
-		"oAP": "/build/work_ar-sneakers.html",
-		"oF": 3,
+		"oAP": "/build/work_comeon.html",
+		"oF": 2,
 		"oFM": 0,
 		"oS": 1,
 		"rAC": 0
 		},
-	"/src/slim/work/work_bigScreen_prototyping.slim": {
-		"cB": 1,
+	"/src/slim/work/work_tele2.slim": {
+		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
 		"llg": 0,
 		"oA": 0,
-		"oAP": "/build/work_bigScreen_prototyping.html",
-		"oF": 3,
+		"oAP": "/build/work_tele2.html",
+		"oF": 2,
 		"oFM": 0,
 		"oS": 1,
 		"rAC": 0
@@ -970,6 +1081,386 @@
 		"oFM": 0,
 		"oS": 1,
 		"rAC": 0
+		},
+	"/temp/advice-advise-advisor-7075.jpg": {
+		"ft": 16384,
+		"iS": 2103092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/build/temp/advice-advise-advisor-7075.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/temp/screens.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/temp/screens.psd",
+		"oF": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2.html",
+		"oF": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/0": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/0",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/8389aa03a7b3.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/8389aa03a7b3-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/analytics.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/analytics-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/bat.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/bat-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/btn_desktop_round_tele2_bottom_retina.png": {
+		"ft": 32768,
+		"iS": 3437,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/btn_desktop_round_tele2_bottom_retina.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/di.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/di-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/ec.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/ec-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/f(1).txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/f(1).txt",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/f.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/f.txt",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/fbevents.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/fbevents-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/freshfront": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/freshfront",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/freshfront.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/freshfront-min.css",
+		"oF": 1,
+		"oS": 3
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/gtm.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/gtm-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/hbo-logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/hbo-logo-white.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/HBO_got.jpg": {
+		"ft": 16384,
+		"iS": 63238,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/HBO_got.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/imp_tele2se.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/imp_tele2se-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/js": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/js",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/js(1)": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/js(1)",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro-logo.png": {
+		"ft": 32768,
+		"iS": 7456,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro-logo.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro.jpg": {
+		"ft": 16384,
+		"iS": 177000,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/nexstory-logo-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/nexstory-logo-white.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/nextory-hero-mobile.jpg": {
+		"ft": 16384,
+		"iS": 34890,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/nextory-hero-mobile.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/p": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/p",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/prum.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/prum.min-min.js",
+		"oF": 1,
+		"sC": 1,
+		"tS": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/readly_logo_light.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/readly_logo_light.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/readly_vas.jpg": {
+		"ft": 16384,
+		"iS": 63163,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/readly_vas.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource(1).html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource(1).html",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource.html",
+		"oF": 1
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/spotify.jpg": {
+		"ft": 16384,
+		"iS": 48564,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/spotify.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/spotify_logo_with_text.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/spotify_logo_with_text.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/t2-trygghetsavtal_logo.png": {
+		"ft": 32768,
+		"iS": 16398,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2-trygghetsavtal_logo.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/t2-ui-kit.min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2-ui-kit.min-min.css",
+		"oF": 1,
+		"oS": 3
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/t2_sakerhetspaket_logo.png": {
+		"ft": 32768,
+		"iS": 4800,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2_sakerhetspaket_logo.png",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/Tele2-trygghetsavtal_vas.jpg": {
+		"ft": 16384,
+		"iS": 59223,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/Tele2-trygghetsavtal_vas.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/tele2_sakerhetspaket_500.jpg": {
+		"ft": 16384,
+		"iS": 16423,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/tele2_sakerhetspaket_500.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/Tele2_Viaplay_TheEnemyWithin.jpg": {
+		"ft": 16384,
+		"iS": 44416,
+		"jF": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/Tele2_Viaplay_TheEnemyWithin.jpg",
+		"oF": 1,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/temp/Smarta tjänster och tillval _ Tele2_files/viaplay_white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 1,
+		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/viaplay_white.svg",
+		"oF": 1,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		}
 	},
 "hooks": [
@@ -991,7 +1482,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/src/img/favicon/apple-touch-icon-120x120.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 565440738.51958895
+	"lastBuiltDate": 572215579.82542706
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

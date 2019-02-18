@@ -10,10 +10,15 @@ body {
 
 a {
   text-decoration: none;
+  color: $textPrimary;
 }
 
 ul {
-  margin: 0 4rem;
+  margin: 0 2rem;
+}
+
+li {
+  padding-bottom: 1rem;
 }
 
 .main {
@@ -36,7 +41,6 @@ ul {
 }
 
 .header__inner {
-  //background-color: red;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -97,14 +101,10 @@ ul {
   text-decoration: none;
 }
 
-// .section {
-//   margin-bottom: 4rem;
-// }
 
 .banner__img {
   width: 40px;
 }
-
 
 
 .section__header {
