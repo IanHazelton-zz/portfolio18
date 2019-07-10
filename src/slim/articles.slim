@@ -13,16 +13,29 @@ body
 
           .intro__header
             h1.title
-              | Selected writing
+              | Side projects & Articles
+
 
         h4.sectionTitle
-          | Article
+          | Playground / Code
+        hr.mb1
+        include ./articles/_article_card_login_form.slim
+        footer.section__footer
+        
+        h4.sectionTitle
+          | Playground / Article
         hr.mb1
         include ./articles/_article_card_bubbles.slim
         footer.section__footer
         
         h4.sectionTitle
-          | Playground project
+          | Playground / Code
+        hr.mb1
+        include ./articles/_article_card_jank.slim
+        footer.section__footer
+
+        h4.sectionTitle
+          | Playground / Article
         hr.mb1
         include ./articles/_article_card_spiderPeople.slim
         / hr.mt2.mb1

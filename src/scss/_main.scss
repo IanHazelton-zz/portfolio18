@@ -137,11 +137,11 @@ li {
   display: block;
   margin: 0 auto;
   max-width: 100%;
-  &--profile {
-    @include breakpoint(md) {
-      width: 60%;
-  } 
-  }
+  // &--profile {
+  //   @include breakpoint(md) {
+  //     width: 60%;
+  // } 
+  // }
 }
 
 .arrow {
