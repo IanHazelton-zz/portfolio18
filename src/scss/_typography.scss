@@ -96,15 +96,17 @@ html {
 .btn-cnt {
     display: flex;
     justify-content: flex-end;
-    width: 100%;
 }
 .btn {
     background-color: #fbff00;
+    border-radius: 8px;
     font-family: 'Overpass', sans-serif;
     font-size: $text_xs_body;
     font-weight: 200;
     line-height: 2.7rem;
+    min-width: 24rem;
     padding: 1rem;
+    text-align: center;
 }
 
 

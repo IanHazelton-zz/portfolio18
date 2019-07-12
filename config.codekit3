@@ -7,7 +7,7 @@
 		"uuidString": "E8CCEE22-BBC7-4906-A3FA-A523EE804F4D"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29156",
 "files": {
 	"/build": {
 		"ft": 65536,
@@ -18,6 +18,7 @@
 	"/build.zip": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/build.zip",
 		"oF": 0
@@ -390,6 +391,7 @@
 	"/src/img/favicon/code.txt": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/img/favicomatic/code.txt",
 		"oF": 2
@@ -452,6 +454,7 @@
 	"/src/img/favicon/favicon.ico": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/img/favicomatic/favicon.ico",
 		"oF": 2
@@ -851,6 +854,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/about.html",
@@ -863,6 +867,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/articles.html",
@@ -875,6 +880,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/articles/_article_card_bubbles.html",
@@ -887,6 +893,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/articles/_article_card_jank.html",
@@ -899,6 +906,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/articles/_article_card_login_form.html",
@@ -911,6 +919,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/articles/_article_card_spiderPeople.html",
@@ -923,6 +932,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/article_bubbles.html",
@@ -935,6 +945,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/article_spider-people.html",
@@ -947,6 +958,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/footer/_footer.html",
@@ -959,6 +971,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/head/_head.html",
@@ -981,6 +994,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/index.html",
@@ -993,6 +1007,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/nav/_nav.html",
@@ -1005,6 +1020,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/scripts/_script.html",
@@ -1017,6 +1033,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/work.html",
@@ -1029,6 +1046,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_ar-sneakers.html",
@@ -1041,6 +1059,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_bigScreen_prototyping.html",
@@ -1053,6 +1072,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_comeon.html",
@@ -1065,6 +1085,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_glitch.html",
@@ -1077,6 +1098,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_tele2.html",
@@ -1089,6 +1111,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 1,
 		"oAP": "/build/slim/work/_work_card_viasport.html",
@@ -1101,6 +1124,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/work_comeon.html",
@@ -1113,6 +1137,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/work_tele2.html",
@@ -1125,6 +1150,7 @@
 		"cB": 0,
 		"cmO": 0,
 		"ft": 1024,
+		"hM": 0,
 		"llg": 0,
 		"oA": 0,
 		"oAP": "/build/work_viasport.html",
@@ -1147,371 +1173,10 @@
 	"/temp/screens.psd": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/build/temp/screens.psd",
 		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2.html",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/0": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/0",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/8389aa03a7b3.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/8389aa03a7b3-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/analytics.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/analytics-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/bat.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/bat-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/btn_desktop_round_tele2_bottom_retina.png": {
-		"ft": 32768,
-		"iS": 3437,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/btn_desktop_round_tele2_bottom_retina.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/di.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/di-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/ec.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/ec-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/f(1).txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/f(1).txt",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/f.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/f.txt",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/fbevents.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/fbevents-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/freshfront": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/freshfront",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/freshfront.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/freshfront-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/gtm.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/gtm-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/hbo-logo-white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/hbo-logo-white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/HBO_got.jpg": {
-		"ft": 16384,
-		"iS": 63238,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/HBO_got.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/imp_tele2se.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/imp_tele2se-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/js": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/js",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/js(1)": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/js(1)",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro-logo.png": {
-		"ft": 32768,
-		"iS": 7456,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro.jpg": {
-		"ft": 16384,
-		"iS": 177000,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/kiliaro.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/nexstory-logo-white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/nexstory-logo-white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/nextory-hero-mobile.jpg": {
-		"ft": 16384,
-		"iS": 34890,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/nextory-hero-mobile.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/p": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/p",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/prum.min.js": {
-		"ft": 64,
-		"ma": 0,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/prum.min-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/readly_logo_light.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/readly_logo_light.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/readly_vas.jpg": {
-		"ft": 16384,
-		"iS": 63163,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/readly_vas.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource(1).html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource(1).html",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/saved_resource.html",
-		"oF": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/spotify.jpg": {
-		"ft": 16384,
-		"iS": 48564,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/spotify.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/spotify_logo_with_text.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/spotify_logo_with_text.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/t2-trygghetsavtal_logo.png": {
-		"ft": 32768,
-		"iS": 16398,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2-trygghetsavtal_logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/t2-ui-kit.min.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2-ui-kit.min-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/t2_sakerhetspaket_logo.png": {
-		"ft": 32768,
-		"iS": 4800,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/t2_sakerhetspaket_logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/Tele2-trygghetsavtal_vas.jpg": {
-		"ft": 16384,
-		"iS": 59223,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/Tele2-trygghetsavtal_vas.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/tele2_sakerhetspaket_500.jpg": {
-		"ft": 16384,
-		"iS": 16423,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/tele2_sakerhetspaket_500.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/Tele2_Viaplay_TheEnemyWithin.jpg": {
-		"ft": 16384,
-		"iS": 44416,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/Tele2_Viaplay_TheEnemyWithin.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/temp/Smarta tjänster och tillval _ Tele2_files/viaplay_white.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/build/temp/Smarta tjänster och tillval _ Tele2_files/viaplay_white.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		}
 	},
 "hooks": [
@@ -1533,7 +1198,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "/src/img/favicon/apple-touch-icon-120x120.png",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 584427729.99793994
+	"lastBuiltDate": 584648702.95202994
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1618,6 +1283,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -1637,6 +1308,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -1687,6 +1388,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -1720,10 +1424,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -2672,6 +2382,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -3334,6 +3048,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3355,6 +3070,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -3377,7 +3093,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3416,6 +3133,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3425,7 +3143,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3446,7 +3165,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3475,7 +3195,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3563,16 +3284,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -3584,14 +3309,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3614,6 +3339,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -3639,10 +3368,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -3651,13 +3376,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -3669,6 +3394,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -3691,13 +3420,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -3706,10 +3435,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -3733,6 +3458,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -3767,6 +3496,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -3776,6 +3509,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3803,15 +3540,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": "/build"
 	},
